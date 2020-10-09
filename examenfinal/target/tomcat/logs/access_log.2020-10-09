@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [09/Oct/2020:15:38:59 -0400] "GET /examenfinal/ HTTP/1.1" 200 57 http-bio-8080-exec-1 388
+0:0:0:0:0:0:0:1 - - [09/Oct/2020:15:38:59 -0400] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [09/Oct/2020:15:40:44 -0400] "GET /examenfinal/ HTTP/1.1" 200 61 http-bio-8080-exec-5 65
+0:0:0:0:0:0:0:1 - - [09/Oct/2020:16:16:26 -0400] "POST /jenkins/descriptor/com.cloudbees.plugins.credentials.CredentialsSelectHelper/resolver/com.cloudbees.plugins.credentials.CredentialsSelectHelper$SystemContextResolver/provider/com.cloudbees.plugins.credentials.SystemCredentialsProvider$ProviderImpl/context/jenkins/addCredentials HTTP/1.1" 404 - http-bio-8080-exec-8 0
+0:0:0:0:0:0:0:1 - - [09/Oct/2020:16:33:04 -0400] "GET /jenkins/ HTTP/1.1" 404 - http-bio-8080-exec-10 0
+0:0:0:0:0:0:0:1 - - [09/Oct/2020:16:33:06 -0400] "GET /jenkins/ HTTP/1.1" 404 - http-bio-8080-exec-10 0
+0:0:0:0:0:0:0:1 - - [09/Oct/2020:16:33:08 -0400] "GET /jenkins/ HTTP/1.1" 404 - http-bio-8080-exec-10 0
+0:0:0:0:0:0:0:1 - - [09/Oct/2020:16:44:11 -0400] "GET /examenfinal/ HTTP/1.1" 200 61 http-bio-8080-exec-5 2
+0:0:0:0:0:0:0:1 - - [09/Oct/2020:16:44:14 -0400] "GET /examenfinal/ HTTP/1.1" 200 61 http-bio-8080-exec-5 1
